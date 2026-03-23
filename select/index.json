@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "メメント・モリ",
   "base_artist": "大森元貴",
-  "createdAt": "2025-12-06T09:36:26.388487Z",
+  "createdAt": "2026-03-23T06:31:49.168288Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "大森元貴",
       "has_synced": false,
       "path": "select/pl_01_メメント・モリ_大森元貴.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "メメント・モリ",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/localdb_01_メメント・モリ_大森元貴.txt",
+      "repo_name": "eRudytfBoNU"
     }
   ]
 }
